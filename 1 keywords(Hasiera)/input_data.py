@@ -3,6 +3,7 @@ keywords = {
     "dias": "request_saludo",
     "dia": "request_saludo",
     "buenos": "request_saludo",
+    "buenas": "request_saludo",
     "buen": "request_saludo",
     "holi": "request_saludo",
     "aupa":"request_saludo",

@@ -24,7 +24,8 @@ keywords = {
     "secretaria": "request_contacto_horarios",
     "horarios": "request_contacto_horarios",
 
-
+"apuntar": "request_pre_matricula",
+"apuntarme": "request_pre_matricula",
     "prematricula" : "request_pre_matricula",
     "pre-matricula": "request_pre_matricula",
     "plazo" : "request_pre_matricula",

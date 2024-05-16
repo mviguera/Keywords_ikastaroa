@@ -69,6 +69,9 @@ keywords = {
 "metodologia": "request_metodologia",
 "metodo": "request_metodologia",
 
+"donde": "request_ubicacion",
+"calle": "request_ubicacion",
+"direccion": "request_ubicacion",
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
@@ -100,6 +103,7 @@ answer = {
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_pregunta": "Perdona pero, ¿te refieres a matrícula o a prematrícula?",
     "request_metodologia": "Se usa una metodología basada en retos en todos los ciclos",
+    "request_ubicacion": "Nos encontramos en c/aldapa 3 Barakaldo ",
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
 

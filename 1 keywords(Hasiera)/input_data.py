@@ -66,6 +66,9 @@ keywords = {
     "g-mail": "request_contacto",
     "mail": "request_contacto",
       
+"metodologia": "request_metodologia",
+"metodo": "request_metodologia",
+
 
     "oferta": "request_oferta",
     "ofertas": "request_oferta",
@@ -96,6 +99,7 @@ answer = {
     "request_telefono": "El  telefono del centro es el 9444678909",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
     "request_pregunta": "Perdona pero, ¿te refieres a matrícula o a prematrícula?",
+    "request_metodologia": "Se usa una metodología basada en retos en todos los ciclos",
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
 

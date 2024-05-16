@@ -78,7 +78,7 @@ keywords = {
     "titulacion": "request_oferta",
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
-    "estudios":"request_oferta",
+    "estudios":"request_oferta"
     
 
 }

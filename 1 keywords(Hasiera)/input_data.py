@@ -5,6 +5,7 @@ keywords = {
     "buenos": "request_saludo",
     "buen": "request_saludo",
     "holi": "request_saludo",
+    "aupa":"request_saludo",
     
 
     "adios": "request_despedida",
@@ -12,6 +13,8 @@ keywords = {
     "luego": "request_despedida",
     "vista": "request_despedida",
     "agur": "request_despedida",
+    "ciao": "request_despedida",
+    "aio":"request_despedida",
 
  
     "horario": "request_contacto_horarios",
@@ -75,6 +78,7 @@ keywords = {
     "titulacion": "request_oferta",
     "formacion": "request_oferta",
     "formaciones": "request_oferta",
+    "estudios":"request_oferta",
     
 
 }

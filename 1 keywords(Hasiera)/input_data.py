@@ -32,9 +32,9 @@ keywords = {
     "pre-matricularme": "request_pre_matricula",
     "pre-matricular": "request_pre_matricula",
     "pre-matriculacion": "request_pre_matricula",
-    "inscripcion": "request_pre_matricula",
-    "inscribirme": "request_pre_matricula",
-    "inscribir": "request_pre_matricula",
+    "inscripcion": "request_pregunta",
+    "inscribirme": "request_pregunta",
+    "inscribir": "request_pregunta",
     
 
     "matricula" : "request_matricula",
@@ -44,7 +44,7 @@ keywords = {
    
 
     "contacto" : "request_contacto",
-    "telefono": "request_contacto",
+    "telefono": "request_telefono",
     "tlfno": "request_contacto",
     "email": "request_contacto",
     "direccion": "request_contacto",
@@ -52,7 +52,7 @@ keywords = {
     "sitio": "request_contacto",
     "encuentra": "request_contacto",
     "e-mail": "request_contacto",
-    "tlfn": "request_contacto",
+    "tlfn": "request_telefono",
     "llamar": "request_contacto",
     "llamada": "request_contacto",
     "correo": "request_contacto",
@@ -88,8 +88,9 @@ answer = {
     "request_pre_matricula": "El periodo de pre-matrícula es a partir de junio. Si rellenas el siguiente formulario (xxx (URL), cuando se publiquen las fechas oficiales te podremos avisar. Puedes inscribirte aquí: xxx (URL)",
     "request_matricula": "Para realizar la matrícula debes esperar a julio. La matrícula puedes realizarla aquí: xxx (URL)", 
     "request_contacto" : "Los datos de contacto del centro son: Teléfono: XXX XXX XXX. Email: xxxxxxx@gmail.com ",
+    "request_telefono": "El  telefono del centro es el 9444678909",
     "request_oferta": "El centro tiene una gran oferta de formaciones para realizar. Puedes informarte sobre ellas aquí: xxx (URL)",
-
+    "request_pregunta": "Perdona pero, ¿te refieres a matrícula o a prematrícula?",
     "request_unknown": "¡Vaya! Parece que no te he entendido muy bien. Puedo ayudarte a contactar con el centro, proporcionarte información sobre matricula y oferta"
 }
 

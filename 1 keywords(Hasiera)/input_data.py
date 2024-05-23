@@ -7,6 +7,8 @@ keywords = {
     "buen": "request_saludo",
     "holi": "request_saludo",
     "aupa":"request_saludo",
+
+      "aupi":"request_saludo",
     
 
     "adios": "request_despedida",

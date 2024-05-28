@@ -22,7 +22,10 @@ def clean_text(query):
     #Esaldiari azkenengo ? kendu
     if sentence.endswith('?'):
         sentence = sentence[:-1]
-    
+       #Esaldiari azkenengo s kendu
+    if sentence.endswith('s'):
+        sentence = sentence[:-1]
+
     #Esaldiari hasierako ¿ kendu
     if sentence.startswith('¿'):
         sentence = sentence[1:]
